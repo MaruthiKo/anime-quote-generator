@@ -1,0 +1,55 @@
+body{
+    background-image: url("./assets/bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    height: 400px;
+    width: 75%;
+    margin: 5rem auto;
+}
+
+body{
+    text-align: center;
+    color: #F8EFD4;
+}
+
+.title{
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+}
+
+.desc{
+    font-family: 'Roboto', sans-serif;
+}
+
+.quote{
+    width: 100%;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    color: black;
+    border-radius: 0.5rem;
+}
+
+.anime-desc{
+    font-style: normal;
+    font-size: 1rem;
+}
+
+.btn{
+    margin-top: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 0.15rem;
+    padding: 1rem;
+}
+
+.btn:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
